@@ -76,7 +76,7 @@ Our goal is to train a custom deep learning model to detect the sentence input f
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
-![Figure 4]https://miro.medium.com/max/1878/1*0JqMq7W9ndcOmL3UQ5lPhQ.png)
+![Figure 4](https://miro.medium.com/max/1878/1*0JqMq7W9ndcOmL3UQ5lPhQ.png)
 
 Figure 4: An architecture of a meme chatbot . 
 The bot should somehow maintain the state of the conversation and respond to the user request in the current context (aka., it needs to be context aware).
