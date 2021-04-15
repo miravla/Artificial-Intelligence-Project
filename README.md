@@ -5,17 +5,17 @@
 **Project Title:** Memes Chatbot
 
 **Team Members:** 
-- [Gui Qi Fang]
-- [Khaw Ming Jie]
-- [Choo Dik Pong]
-- [Loh Chun Ren]
+- Gui Qi Fang
+- Khaw Ming Jie
+- Choo Dik Pong
+- Loh Chun Ren
 
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [To create a chatbot which can reply some funny jokes and memes]
-- [To bring some joy for users]
-- [To fulfill users' bored time during their free time]
+- To create a chatbot which can reply some funny jokes and memes
+- To bring some joy for users
+- To fulfill users' bored time during their free time
 
 
 ##  B. ABSTRACT 
